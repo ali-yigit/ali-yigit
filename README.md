@@ -2,7 +2,7 @@
 
 I'm Ali, a full-time Full-Stack Developer
 
-🔭 I'm Full-Stack Developer
+🔭 I'm Front-End Developer
 
 🌱 I build Web-Sites by coding with javaScript/React/HTML/CSS/Bootstrap/
 
